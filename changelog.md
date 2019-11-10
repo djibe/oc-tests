@@ -3,7 +3,7 @@ h1. CHANGELOG
 h2. RC-3
 h3. Additions
 * chip-outline
-* chip checkbox
+* chip choice
 
 h2. RC-2
 
