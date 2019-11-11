@@ -1,4 +1,4 @@
-h1. CHANGELOG
+h1. CHANGELOG conflict
 
 h2. RC-3
 - chips look like Material Design v2
