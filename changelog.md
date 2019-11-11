@@ -1,10 +1,10 @@
 h1. CHANGELOG
 
 h2. RC-3
-h3. Additions
-* chip-outline
-* chip choice
-* chip filter
+- chips look like Material Design v2
++ chip-outline
++ chip choice
++ chip filter
 
 h2. RC-2
 
